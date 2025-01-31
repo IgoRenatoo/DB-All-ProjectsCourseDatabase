@@ -4,6 +4,8 @@
 
 Este projeto apresenta um modelo de banco de dados para um sistema acadêmico. O objetivo principal é organizar e estruturar as informações relacionadas a alunos, professores, cursos, disciplinas e seus respectivos relacionamentos. A modelagem foi realizada utilizando o diagrama EER (Enhanced Entity-Relationship) para maior clareza e detalhamento.
 
+> **Status:** <span> Concluído </span> ✔️
+
 ## ✅ Conceitos Aprendidos
 
 - Modelagem de banco de dados utilizando o diagrama EER.

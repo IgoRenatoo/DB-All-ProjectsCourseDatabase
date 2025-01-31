@@ -3,6 +3,8 @@
 ## 💻 Descrição do Projeto
 Este projeto desenvolve um modelo de banco de dados relacional para um sistema de gestão de ordens de serviço. O objetivo é aplicar conceitos fundamentais de bancos de dados, como criação de tabelas, definição de chaves primárias e estrangeiras, além de garantir a normalização dos dados.
 
+> **Status:** <span> Concluído </span> ✔️
+
 ## ✅ Conceitos Aprendidos
 - **Modelagem de Banco de Dados Relacional:** Aprendizado sobre como estruturar e organizar dados de maneira eficiente em um banco de dados.
 - **Chaves Primárias e Estrangeiras:** Entendimento de como as chaves primárias identificam registros únicos e as chaves estrangeiras fazem a conexão entre diferentes tabelas.

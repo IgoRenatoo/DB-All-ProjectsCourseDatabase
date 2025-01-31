@@ -1,8 +1,13 @@
-# Modelo de Banco de Dados para Sistema de Vendas
+# Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
 ## 📝 Descrição do projeto
 
 Este modelo de banco de dados foi projetado para gerenciar as operações de uma loja online ou física, abrangendo desde o cadastro de clientes e produtos até o processamento de pedidos e o controle de estoque.
+  - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+  - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+  - Entrega – Possui status e código de rastreio;
+
+> **Status:** <span> In Progress </span> ⏳
 
 ## ✅ Conceitos Aprendidos
 
